@@ -1,0 +1,436 @@
+[2025-05-29T02:59:41.683Z] [INFO] Loaded command: help
+[2025-05-29T02:59:41.688Z] [INFO] Loaded command: screenshot
+[2025-05-29T02:59:41.688Z] [ERROR] DISCORD_TOKEN environment variable is required
+[2025-05-29T02:59:41.897Z] [INFO] Loaded command: help
+[2025-05-29T02:59:41.902Z] [INFO] Loaded command: screenshot
+[2025-05-29T02:59:41.902Z] [ERROR] DISCORD_TOKEN environment variable is required
+[2025-05-29T03:03:04.497Z] [INFO] Loaded command: help
+[2025-05-29T03:03:04.503Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:03:04.560Z] [INFO] Loaded command: help
+[2025-05-29T03:03:04.566Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:03:04.942Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:03:04.943Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:03:04.948Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:03:04.949Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:03:05.162Z] [INFO] Successfully reloaded application (/) commands.
+[2025-05-29T03:03:05.244Z] [INFO] Successfully reloaded application (/) commands.
+[2025-05-29T03:13:50.935Z] [INFO] Loaded command: help
+[2025-05-29T03:13:50.937Z] [INFO] Loaded command: help
+[2025-05-29T03:13:50.943Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:13:50.944Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:13:51.360Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:13:51.361Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:13:51.396Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:13:51.397Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:13:51.624Z] [INFO] Successfully reloaded application (/) commands.
+[2025-05-29T03:13:51.688Z] [INFO] Successfully reloaded application (/) commands.
+[2025-05-29T03:15:34.876Z] [INFO] Loaded command: help
+[2025-05-29T03:18:29.591Z] [INFO] Loaded command: help
+[2025-05-29T03:18:29.596Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:18:29.970Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:18:29.972Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:18:29.972Z] [INFO] Registering 2 commands.
+[2025-05-29T03:18:30.180Z] [INFO] Successfully reloaded 2 application (/) commands.
+[2025-05-29T03:19:53.041Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:57:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T03:19:53.175Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T03:19:53.478Z] [INFO] Command help executed by misterh2702
+[2025-05-29T03:20:12.749Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T03:20:40.953Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T03:20:57.392Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T03:21:32.211Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T03:24:38.903Z] [INFO] Loaded command: help
+[2025-05-29T03:24:38.907Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:24:39.332Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:24:39.334Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:24:39.334Z] [INFO] Registering 2 commands.
+[2025-05-29T03:24:39.590Z] [INFO] Successfully reloaded 2 application (/) commands.
+[2025-05-29T03:37:57.836Z] [INFO] Loaded command: help
+[2025-05-29T03:37:57.840Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:37:57.863Z] [INFO] Loaded command: help
+[2025-05-29T03:37:57.868Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:37:58.327Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:37:58.328Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:37:58.328Z] [INFO] Registering 2 commands.
+[2025-05-29T03:37:58.509Z] [INFO] Successfully reloaded 2 application (/) commands.
+[2025-05-29T03:37:59.498Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:37:59.499Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:37:59.499Z] [INFO] Registering 2 commands.
+[2025-05-29T03:37:59.755Z] [INFO] Successfully reloaded 2 application (/) commands.
+[2025-05-29T03:38:21.794Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:57:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T03:38:21.898Z] [INFO] Command help executed by misterh2702
+[2025-05-29T03:38:21.920Z] [ERROR] Uncaught exception:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T03:47:49.542Z] [INFO] Loaded command: admin
+[2025-05-29T03:47:49.544Z] [INFO] Loaded command: help
+[2025-05-29T03:47:49.545Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:47:49.963Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:47:49.964Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:47:49.965Z] [INFO] Registering 3 commands.
+[2025-05-29T03:47:50.083Z] [ERROR] Error registering commands:
+DiscordAPIError[50035]: Invalid Form Body
+0.options[2].options[2][APPLICATION_COMMAND_OPTIONS_REQUIRED_INVALID]: Required options must be placed before non-required options
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1149:23)
+    at async SequentialHandler.queueRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:980:14)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async registerCommands (/home/runner/workspace/index.js:93:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:40:5)
+[2025-05-29T03:48:26.212Z] [INFO] Loaded command: admin
+[2025-05-29T03:48:26.214Z] [INFO] Loaded command: help
+[2025-05-29T03:48:26.215Z] [INFO] Loaded command: screenshot
+[2025-05-29T03:48:26.640Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T03:48:26.642Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T03:48:26.642Z] [INFO] Registering 3 commands.
+[2025-05-29T03:48:26.849Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T03:54:17.150Z] [INFO] Command help executed by misterh2702
+[2025-05-29T04:14:16.354Z] [INFO] Loaded command: admin
+[2025-05-29T04:14:16.356Z] [INFO] Loaded command: admin
+[2025-05-29T04:14:16.360Z] [INFO] Loaded command: help
+[2025-05-29T04:14:16.359Z] [INFO] Loaded command: help
+[2025-05-29T04:14:16.361Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:14:16.361Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:14:16.943Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:14:16.998Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:14:16.999Z] [INFO] Registering 3 commands.
+[2025-05-29T04:14:17.007Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:14:17.009Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:14:17.009Z] [INFO] Registering 3 commands.
+[2025-05-29T04:14:17.292Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T04:14:17.492Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T04:14:28.212Z] [ERROR] Error in admin command:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.deferReply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:123:22)
+    at async handleListCommand (/home/runner/workspace/commands/admin.js:117:5)
+    at async Object.execute (/home/runner/workspace/commands/admin.js:84:21)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T04:14:28.349Z] [ERROR] Error executing command admin:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/admin.js:110:17)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T04:14:28.438Z] [ERROR] Uncaught exception:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T04:14:28.473Z] [INFO] Command admin executed by misterh2702
+[2025-05-29T04:15:13.915Z] [INFO] Screenshot uploaded: rise-of-kingdoms/commander-guide-1 by misterh2702
+[2025-05-29T04:15:13.915Z] [INFO] Command admin executed by misterh2702
+[2025-05-29T04:15:25.455Z] [INFO] Screenshot served: rise-of-kingdoms/commander-guide-1 to misterh2702
+[2025-05-29T04:15:25.455Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T04:16:04.859Z] [INFO] Screenshot deleted: rise-of-kingdoms/commander-guide-1 by misterh2702
+[2025-05-29T04:16:04.859Z] [INFO] Command admin executed by misterh2702
+[2025-05-29T04:37:25.898Z] [INFO] Loaded command: admin
+[2025-05-29T04:37:25.900Z] [INFO] Loaded command: admin
+[2025-05-29T04:37:25.907Z] [INFO] Loaded command: help
+[2025-05-29T04:37:25.909Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:37:25.902Z] [INFO] Loaded command: admin
+[2025-05-29T04:37:25.912Z] [INFO] Loaded command: help
+[2025-05-29T04:37:25.916Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:37:25.911Z] [INFO] Loaded command: admin
+[2025-05-29T04:37:25.915Z] [INFO] Loaded command: help
+[2025-05-29T04:37:25.918Z] [INFO] Loaded command: help
+[2025-05-29T04:37:25.919Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:37:25.928Z] [INFO] Loaded command: screenshot
+[2025-05-29T04:37:26.605Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:37:26.607Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:37:26.607Z] [INFO] Registering 3 commands.
+[2025-05-29T04:37:26.790Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:37:26.794Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:37:26.794Z] [INFO] Registering 3 commands.
+[2025-05-29T04:37:26.823Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T04:37:27.044Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T04:37:31.718Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:37:31.719Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:37:31.720Z] [INFO] Registering 3 commands.
+[2025-05-29T04:37:37.140Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T04:37:37.142Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T04:37:37.142Z] [INFO] Registering 3 commands.
+[2025-05-29T04:37:38.666Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T04:37:38.675Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T04:37:38.720Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T04:37:38.792Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T04:37:38.850Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T04:37:38.956Z] [INFO] Command help executed by misterh2702
+[2025-05-29T04:37:39.944Z] [ERROR] Uncaught exception:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T04:38:27.185Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T05:17:21.124Z] [INFO] Loaded command: admin
+[2025-05-29T05:17:21.130Z] [INFO] Loaded command: help
+[2025-05-29T05:17:21.132Z] [INFO] Loaded command: screenshot
+[2025-05-29T05:17:21.544Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T05:17:21.546Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T05:17:21.546Z] [INFO] Registering 3 commands.
+[2025-05-29T05:17:21.871Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T13:50:28.376Z] [INFO] Loaded command: admin
+[2025-05-29T13:50:28.417Z] [INFO] Loaded command: help
+[2025-05-29T13:50:28.415Z] [INFO] Loaded command: admin
+[2025-05-29T13:50:28.418Z] [INFO] Loaded command: help
+[2025-05-29T13:50:28.418Z] [INFO] Loaded command: screenshot
+[2025-05-29T13:50:28.419Z] [INFO] Loaded command: screenshot
+[2025-05-29T13:50:28.949Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T13:50:28.951Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T13:50:28.952Z] [INFO] Registering 3 commands.
+[2025-05-29T13:50:28.965Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T13:50:28.967Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T13:50:28.967Z] [INFO] Registering 3 commands.
+[2025-05-29T13:50:29.177Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T13:50:29.238Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T13:51:11.975Z] [ERROR] Error in admin command:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.deferReply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:123:22)
+    at async handleUploadCommand (/home/runner/workspace/commands/admin.js:205:5)
+    at async Object.execute (/home/runner/workspace/commands/admin.js:90:21)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T13:51:12.103Z] [ERROR] Error executing command admin:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/admin.js:110:17)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T13:51:12.207Z] [ERROR] Uncaught exception:
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T13:51:12.492Z] [INFO] Screenshot uploaded: rise-of-kingdoms/alliance-guide-1 by misterh2702
+[2025-05-29T13:51:12.493Z] [INFO] Command admin executed by misterh2702
+[2025-05-29T13:51:44.947Z] [INFO] Screenshot served: rise-of-kingdoms/alliance-guide-1 to misterh2702
+[2025-05-29T13:51:44.954Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T13:59:49.171Z] [INFO] Screenshot served: rise-of-kingdoms/alliance-guide-1 to misterh2702
+[2025-05-29T13:59:49.171Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T13:59:58.324Z] [INFO] Loaded command: admin
+[2025-05-29T13:59:58.326Z] [INFO] Loaded command: help
+[2025-05-29T13:59:58.327Z] [INFO] Loaded command: screenshot
+[2025-05-29T13:59:58.327Z] [INFO] Loaded command: admin
+[2025-05-29T13:59:58.330Z] [INFO] Loaded command: help
+[2025-05-29T13:59:58.331Z] [INFO] Loaded command: screenshot
+[2025-05-29T13:59:58.856Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T13:59:58.858Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T13:59:58.858Z] [INFO] Registering 3 commands.
+[2025-05-29T13:59:58.973Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T13:59:58.975Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T13:59:58.975Z] [INFO] Registering 3 commands.
+[2025-05-29T13:59:59.097Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T13:59:59.302Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T14:02:07.740Z] [INFO] Loaded command: admin
+[2025-05-29T14:02:07.740Z] [INFO] Loaded command: admin
+[2025-05-29T14:02:07.747Z] [INFO] Loaded command: help
+[2025-05-29T14:02:07.747Z] [INFO] Loaded command: help
+[2025-05-29T14:02:07.749Z] [INFO] Loaded command: screenshot
+[2025-05-29T14:02:07.749Z] [INFO] Loaded command: screenshot
+[2025-05-29T14:02:08.326Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T14:02:08.327Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T14:02:08.328Z] [INFO] Registering 3 commands.
+[2025-05-29T14:02:08.371Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T14:02:08.372Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T14:02:08.373Z] [INFO] Registering 3 commands.
+[2025-05-29T14:02:08.607Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T14:02:08.607Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T14:02:09.773Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T14:02:09.904Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T14:02:10.121Z] [INFO] Command help executed by misterh2702
+[2025-05-29T14:02:26.596Z] [INFO] Screenshot served: rise-of-kingdoms/alliance-guide-1 to misterh2702
+[2025-05-29T14:02:26.596Z] [INFO] Command screenshot executed by misterh2702
+[2025-05-29T14:16:09.523Z] [INFO] Loaded command: admin
+[2025-05-29T14:16:09.523Z] [INFO] Loaded command: admin
+[2025-05-29T14:16:09.528Z] [INFO] Loaded command: help
+[2025-05-29T14:16:09.528Z] [INFO] Loaded command: help
+[2025-05-29T14:16:09.530Z] [INFO] Loaded command: screenshot
+[2025-05-29T14:16:09.530Z] [INFO] Loaded command: screenshot
+[2025-05-29T14:16:10.039Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T14:16:10.040Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T14:16:10.040Z] [INFO] Registering 3 commands.
+[2025-05-29T14:16:10.081Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-29T14:16:10.083Z] [INFO] Started refreshing application (/) commands.
+[2025-05-29T14:16:10.083Z] [INFO] Registering 3 commands.
+[2025-05-29T14:16:10.233Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T14:16:10.497Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-29T14:16:12.080Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-29T14:16:12.197Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-29T14:16:12.220Z] [INFO] Command help executed by misterh2702
+[2025-05-31T21:55:34.785Z] [INFO] Loaded command: admin
+[2025-05-31T21:55:34.785Z] [INFO] Loaded command: admin
+[2025-05-31T21:55:34.791Z] [INFO] Loaded command: help
+[2025-05-31T21:55:34.791Z] [INFO] Loaded command: help
+[2025-05-31T21:55:34.793Z] [INFO] Loaded command: screenshot
+[2025-05-31T21:55:34.793Z] [INFO] Loaded command: screenshot
+[2025-05-31T21:55:35.375Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T21:55:35.377Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T21:55:35.377Z] [INFO] Registering 3 commands.
+[2025-05-31T21:55:35.506Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T21:55:35.508Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T21:55:35.508Z] [INFO] Registering 3 commands.
+[2025-05-31T21:55:35.662Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-31T21:55:35.895Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-31T21:55:57.583Z] [ERROR] Error executing command help:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Object.execute (/home/runner/workspace/commands/help.js:54:9)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:55:9)
+[2025-05-31T21:55:57.729Z] [ERROR] Uncaught exception:
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:748:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:852:23)
+    at async _REST.request (/home/runner/workspace/node_modules/@discordjs/rest/dist/index.js:1293:22)
+    at async ChatInputCommandInteraction.reply (/home/runner/workspace/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:194:22)
+    at async Client.<anonymous> (/home/runner/workspace/index.js:70:13)
+[2025-05-31T21:55:57.754Z] [INFO] Command help executed by misterh2702
+[2025-05-31T22:13:33.008Z] [INFO] Loaded command: admin
+[2025-05-31T22:13:33.008Z] [INFO] Loaded command: admin
+[2025-05-31T22:13:33.012Z] [INFO] Loaded command: help
+[2025-05-31T22:13:33.012Z] [INFO] Loaded command: help
+[2025-05-31T22:13:33.014Z] [INFO] Loaded command: screenshot
+[2025-05-31T22:13:33.014Z] [INFO] Loaded command: screenshot
+[2025-05-31T22:13:33.537Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T22:13:33.538Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T22:13:33.538Z] [INFO] Registering 3 commands.
+[2025-05-31T22:13:33.792Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-31T22:13:34.125Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T22:13:34.127Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T22:13:34.127Z] [INFO] Registering 3 commands.
+[2025-05-31T22:13:34.337Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-31T22:17:51.501Z] [INFO] Loaded command: admin
+[2025-05-31T22:17:51.504Z] [INFO] Loaded command: help
+[2025-05-31T22:17:51.506Z] [INFO] Loaded command: screenshot
+[2025-05-31T22:17:51.603Z] [INFO] Loaded command: admin
+[2025-05-31T22:17:51.607Z] [INFO] Loaded command: help
+[2025-05-31T22:17:51.608Z] [INFO] Loaded command: screenshot
+[2025-05-31T22:17:52.129Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T22:17:52.131Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T22:17:52.131Z] [INFO] Registering 3 commands.
+[2025-05-31T22:17:52.168Z] [INFO] Bot is ready! Logged in as DrAgon Bot#6605
+[2025-05-31T22:17:52.169Z] [INFO] Started refreshing application (/) commands.
+[2025-05-31T22:17:52.170Z] [INFO] Registering 3 commands.
+[2025-05-31T22:17:52.442Z] [INFO] Successfully reloaded 3 application (/) commands.
+[2025-05-31T22:17:52.520Z] [INFO] Successfully reloaded 3 application (/) commands.
